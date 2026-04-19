@@ -27,12 +27,12 @@ public class KrutPatel : Developer
     public string Name        => "Krut Patel";
     public string Username    => "krut-tech";
     public string Location    => "India 🇮🇳";
-    public string[] Languages => { "C#", "ASP.NET", "JavaScript", "SQL" };
+    public string[] Languages => { "C#", "ASP.NET", "JavaScript", "HTML5", "CSS", "PHP", "MySQL" };
     public string[] Focus     => { "ERP Systems", "Mobile Apps", "Web APIs" };
     public string Email       => "krutpatel156@gmail.com";
     public string Status      => "Building cool stuff, one commit at a time 🚀";
 }
-```
+` ` `
 
 ---
 
@@ -45,7 +45,9 @@ public class KrutPatel : Developer
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Tools & Platforms
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -57,6 +59,7 @@ public class KrutPatel : Developer
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL DB](https://img.shields.io/badge/MySQL%20DB-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -138,3 +141,13 @@ public class KrutPatel : Developer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+```
+
+> ⚠️ **Note:** Upar ` ` ` (backticks with spaces) likha hai — GitHub pe paste karte waqt woh **붙여넣기** mein automatically ` ``` ` ban jayenge. Koi issue nahi aayega!
+
+**GitHub pe paste karne ke steps:**
+1. `krut-tech/krut-tech` repo mein jao
+2. `README.md` file pe click karo → pencil icon (edit)
+3. Saara purana content delete karo
+4. Yeh poora code paste karo
+5. **Commit changes** press karo ✅
