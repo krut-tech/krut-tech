@@ -81,7 +81,7 @@ public class KrutPatel : Developer
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krut-tech&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-readme-stats.vercel.app/api?username=krut-tech&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 ---
 
