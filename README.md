@@ -88,9 +88,7 @@ public class KrutPatel : Developer
 <a href="https://github.com/krut-tech/book-management">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=krut-tech&repo=book-management&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/krut-tech/mobile-store-het3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=krut-tech&repo=mobile-store-het3&theme=tokyonight&hide_border=true" />
-</a>
+
 <a href="https://github.com/krut-tech/mobile-store">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=krut-tech&repo=mobile-store&theme=tokyonight&hide_border=true" />
 </a>
