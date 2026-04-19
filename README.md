@@ -81,8 +81,8 @@ public class KrutPatel : Developer
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krut-tech&theme=radical" /></div>
-
+<img src="https://github-profile-trophy.vercel.app/?username=krut-tech&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
 ---
 
 ## 📌 Featured Projects
