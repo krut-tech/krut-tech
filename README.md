@@ -71,10 +71,21 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krut-tech&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=E8E8E8&border_color=D4AF37" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krut-tech&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=8A8A8A" />
+![Public Repos](https://img.shields.io/badge/Public_Repos-12-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000)
+![Total Stars](https://img.shields.io/badge/Total_Stars-1-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000)
+![Followers](https://img.shields.io/github/followers/krut-tech?style=for-the-badge&logo=github&label=Followers&color=000000&labelColor=000000&logoColor=D4AF37)
+![Member Since](https://img.shields.io/badge/Member_Since-Mar_2025-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krut-tech&layout=compact&hide_border=true&langs_count=8&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8&border_color=D4AF37" />
+<br/><br/>
+
+**Most Used Languages** *(by repo)*
+
+![C#](https://img.shields.io/badge/C%23-4_repos-000000?style=flat-square&logo=c-sharp&logoColor=D4AF37&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3_repos-000000?style=flat-square&logo=typescript&logoColor=D4AF37&labelColor=000000)
+![PHP](https://img.shields.io/badge/PHP-1_repo-000000?style=flat-square&logo=php&logoColor=D4AF37&labelColor=000000)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-1_repo-000000?style=flat-square&logo=dotnet&logoColor=D4AF37&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-1_repo-000000?style=flat-square&logo=javascript&logoColor=D4AF37&labelColor=000000)
+![HTML](https://img.shields.io/badge/HTML-1_repo-000000?style=flat-square&logo=html5&logoColor=D4AF37&labelColor=000000)
 
 </div>
 
@@ -82,38 +93,62 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/krut-tech/MediConnect-India">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=krut-tech&repo=MediConnect-India&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8&border_color=D4AF37&icon_color=D4AF37" />
-</a>
-<a href="https://github.com/krut-tech/vault">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=krut-tech&repo=vault&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8&border_color=D4AF37&icon_color=D4AF37" />
-</a>
+**[MediConnect-India](https://github.com/krut-tech/MediConnect-India)**
+National-scale healthcare platform — patients, doctors, hospitals, pharmacy & ambulance modules
+<br/>
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=D4AF37) ![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=D4AF37) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=D4AF37)
 
-<a href="https://github.com/krut-tech/book-management">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=krut-tech&repo=book-management&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8&border_color=D4AF37&icon_color=D4AF37" />
-</a>
-<a href="https://github.com/krut-tech/erp-system">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=krut-tech&repo=erp-system&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8&border_color=D4AF37&icon_color=D4AF37" />
-</a>
+</td>
+<td width="50%" valign="top">
 
-<a href="https://github.com/krut-tech/smart-split">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=krut-tech&repo=smart-split&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8&border_color=D4AF37&icon_color=D4AF37" />
-</a>
-<a href="https://github.com/krut-tech/billflow">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=krut-tech&repo=billflow&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8&border_color=D4AF37&icon_color=D4AF37" />
-</a>
+**[vault](https://github.com/krut-tech/vault)**
+Team code repository & developer dashboard (CodeVault), deployed on Vercel
+<br/>
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=D4AF37) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=D4AF37) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=D4AF37)
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+**[book-management](https://github.com/krut-tech/book-management)**
+ASP.NET Book Management System with full CRUD
+<br/>
+![ASP.NET](https://img.shields.io/badge/ASP.NET-000000?style=flat-square&logo=dotnet&logoColor=D4AF37) ![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=D4AF37)
 
-## 📈 Contribution Graph
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krut-tech&hide_border=true&area=true&color=D4AF37&line=D4AF37&point=E8E8E8&bg_color=0D0D0D" width="100%"/>
-</div>
+**[erp-system](https://github.com/krut-tech/erp-system)**
+ERP system built in C#
+<br/>
+![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=D4AF37)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[smart-split](https://github.com/krut-tech/smart-split)**
+Expense-splitting web app
+<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=D4AF37)
+
+</td>
+<td width="50%" valign="top">
+
+**[billflow](https://github.com/krut-tech/billflow)**
+Billing & invoicing app
+<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=D4AF37)
+
+</td>
+</tr>
+</table>
 
 ---
 
