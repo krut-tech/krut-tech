@@ -93,62 +93,94 @@
 
 ## 📌 Featured Projects
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:D4AF37,100:1a1a1a&height=10&section=header" width="100%"/>
+
+<table width="100%">
+<tr><td>
+
+### 🏥&nbsp; [MediConnect-India](https://github.com/krut-tech/MediConnect-India) &nbsp;<sub>⭐ flagship project</sub>
+
+National-scale healthcare platform — patients, doctors, hospitals, pharmacy & ambulance modules, built module-by-module on a fully RLS-secured Supabase backend.
+
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=D4AF37) ![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=D4AF37) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=D4AF37)
+&nbsp;&nbsp;
+![Last Commit](https://img.shields.io/github/last-commit/krut-tech/MediConnect-India?style=flat-square&color=D4AF37&labelColor=000000&label=updated)
+![Issues](https://img.shields.io/github/issues/krut-tech/MediConnect-India?style=flat-square&color=D4AF37&labelColor=000000)
+![Stars](https://img.shields.io/github/stars/krut-tech/MediConnect-India?style=flat-square&color=D4AF37&labelColor=000000)
+
+</td></tr>
+</table>
+
+<br/>
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**[MediConnect-India](https://github.com/krut-tech/MediConnect-India)**
-National-scale healthcare platform — patients, doctors, hospitals, pharmacy & ambulance modules
-<br/>
-![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=D4AF37) ![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=D4AF37) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=D4AF37)
-
-</td>
-<td width="50%" valign="top">
-
-**[vault](https://github.com/krut-tech/vault)**
+#### 🔐&nbsp; [vault](https://github.com/krut-tech/vault)
 Team code repository & developer dashboard (CodeVault), deployed on Vercel
-<br/>
+
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=D4AF37) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=D4AF37) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=D4AF37)
+<br/>
+![Last Commit](https://img.shields.io/github/last-commit/krut-tech/vault?style=flat-square&color=D4AF37&labelColor=000000&label=updated)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-**[book-management](https://github.com/krut-tech/book-management)**
+#### 📚&nbsp; [book-management](https://github.com/krut-tech/book-management)
 ASP.NET Book Management System with full CRUD
-<br/>
+
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-000000?style=flat-square&logo=dotnet&logoColor=D4AF37) ![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=D4AF37)
-
-</td>
-<td width="50%" valign="top">
-
-**[erp-system](https://github.com/krut-tech/erp-system)**
-ERP system built in C#
 <br/>
-![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=D4AF37)
+![Last Commit](https://img.shields.io/github/last-commit/krut-tech/book-management?style=flat-square&color=D4AF37&labelColor=000000&label=updated)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[smart-split](https://github.com/krut-tech/smart-split)**
-Expense-splitting web app
+#### 🏢&nbsp; [erp-system](https://github.com/krut-tech/erp-system)
+ERP system built in C#
+
+![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=D4AF37)
 <br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=D4AF37)
+![Last Commit](https://img.shields.io/github/last-commit/krut-tech/erp-system?style=flat-square&color=D4AF37&labelColor=000000&label=updated)
 
 </td>
 <td width="50%" valign="top">
 
-**[billflow](https://github.com/krut-tech/billflow)**
-Billing & invoicing app
-<br/>
+#### 💸&nbsp; [smart-split](https://github.com/krut-tech/smart-split)
+Expense-splitting web app
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=D4AF37)
+<br/>
+![Last Commit](https://img.shields.io/github/last-commit/krut-tech/smart-split?style=flat-square&color=D4AF37&labelColor=000000&label=updated)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧾&nbsp; [billflow](https://github.com/krut-tech/billflow)
+Billing & invoicing app
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=D4AF37)
+<br/>
+![Last Commit](https://img.shields.io/github/last-commit/krut-tech/billflow?style=flat-square&color=D4AF37&labelColor=000000&label=updated)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📂&nbsp; [More Projects →](https://github.com/krut-tech?tab=repositories)
+Explore the rest of my repositories on GitHub
+
+![View All](https://img.shields.io/badge/View_All_Repos-000000?style=flat-square&logo=github&logoColor=D4AF37)
 
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:D4AF37,100:1a1a1a&height=10&section=footer" width="100%"/>
 
 ---
 
