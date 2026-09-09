@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Krut+%F0%9F%91%8B;Full+Stack+Developer+%7C+PHP+%2F+Laravel+%2F+MySQL;Building+with+Python+%2F+Django+%2F+React+%2F+Supabase;Currently+Building+MediConnect+India+%F0%9F%8F%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Krut+%F0%9F%91%8B;Full+Stack+Developer+%7C+PHP+%2F+Laravel+%2F+MySQL;Building+with+Python+%2F+Django+%2F+React+%2F+Supabase;Currently+Building+MediConnect+India" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,27 +21,20 @@
 
 ## 🧑‍💻 About Me
 
-```php
-<?php
+<table>
+<tr>
+<td width="38%" valign="middle">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+</td>
+<td width="62%" valign="middle">
 
-class KrutBhadaniya extends Developer
-{
-    public string $name       = "Krut Bhadaniya";
-    public string $username   = "krut-tech";
-    public string $education  = "BCA Student @ Dr. Subhas University";
-    public string $location   = "India 🇮🇳";
-    public array  $languages  = ["PHP", "Python", "JavaScript", "TypeScript", "C#", "SQL"];
-    public array  $frameworks = ["Laravel", "Django", "React", "ASP.NET", "Supabase"];
-    public array  $databases  = ["MySQL", "PostgreSQL"];
-    public array  $focus      = ["Full Stack Web Apps", "Healthcare Platforms", "ERP Systems"];
-    public string $status     = "Building MediConnect India — a national-scale healthcare platform 🏥";
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=E8E8E8&center=false&vCenter=true&multiline=true&repeat=true&width=700&height=210&lines=%F0%9F%8E%93+BCA+Student+%40+Dr.+Subhas+University;%F0%9F%93%8D+Based+in+India;%F0%9F%92%BB+PHP+%C2%B7+Laravel+%C2%B7+Python+%C2%B7+Django+%C2%B7+React;%F0%9F%8F%A5+Building+MediConnect+India+(healthcare+platform);%F0%9F%93%9A+Learning%3A+Laravel+%2B+Supabase+RLS+architecture" alt="About Me" />
+</a>
 
-    public function currentlyLearning(): array
-    {
-        return ["Laravel + Supabase RLS architecture", "Django REST Framework"];
-    }
-}
-```
+</td>
+</tr>
+</table>
 
 ---
 
